@@ -25,6 +25,7 @@ label start:
     # These display lines of dialogue.
 
     "Hola,mundo."
+    "Que pedo?"
 
     e "You've created a new Ren'Py game."
 
