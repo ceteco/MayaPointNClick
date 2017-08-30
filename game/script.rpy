@@ -24,7 +24,7 @@ label start:
 
     # These display lines of dialogue.
 
-    "Hello, world."
+    "Hola,mundo."
 
     e "You've created a new Ren'Py game."
 
